@@ -39,13 +39,13 @@ We carry out software development projects for mobile, desktop and web devices.
 
 ## Trabajos
 
-Aplicación web para tour virtual: [msx.tipolisto.es]([audiotours.es](https://sudiotours.es))
+Aplicación web para tour virtual: [audiotours.es](https://sudiotours.es)
 
 Aplicación web para la comunidad de sistemas MSX: [msx.tipolisto.es](https://msx.tipolisto.es)
 
 Aplicación móvil para adivinar la raza del animal: [breeds](https://play.google.com/store/apps/details?id=es.tipolisto.breeds&pli=1) 
 
-Juego móvil de plataformas: [Hunter](https://play.google.com/store/apps/details?id=com.cpctelera.rvmengine.hunter))
+Juego móvil de plataformas: [Hunter](https://play.google.com/store/apps/details?id=com.cpctelera.rvmengine.hunter)
 
 Juego de preguntas y respuestas para sistema MSX: [msxquiz](https://play.google.com/store/apps/details?id=es.tipolisto.msxquiz)
 
