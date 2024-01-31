@@ -19,7 +19,7 @@ Realizamos proyectos de desarrollo de software para dispositivos móviles, de es
 
 We carry out software development projects for mobile, desktop and web devices.
 
-[https://tipolisto.es](tipolisto.es)
+[tipolisto.es](https://tipolisto.es)
 
 ---
 ---
@@ -39,15 +39,15 @@ We carry out software development projects for mobile, desktop and web devices.
 
 ## Trabajos
 
-Aplicación web para tour virtual: [https://sudiotours.es](audiotours.es)
+Aplicación web para tour virtual: [msx.tipolisto.es]([audiotours.es](https://sudiotours.es))
 
-Aplicación web para la comunidad de sistemas MSX: [https://msx.tipolisto.es](msx.tipolisto.es)
+Aplicación web para la comunidad de sistemas MSX: [msx.tipolisto.es](https://msx.tipolisto.es)
 
-Aplicación móvil para adivinar la raza del animal: [https://play.google.com/store/apps/details?id=es.tipolisto.breeds&pli=1](breeds))
+Aplicación móvil para adivinar la raza del animal: [breeds](https://play.google.com/store/apps/details?id=es.tipolisto.breeds&pli=1) 
 
-Juego móvil de plataformas: {https://play.google.com/store/apps/details?id=com.cpctelera.rvmengine.hunter](Hunter)
+Juego móvil de plataformas: [https://play.google.com/store/apps/details?id=com.cpctelera.rvmengine.hunter](Hunter)
 
-Juego de preguntas y respuestas para sistema MSX: [https://play.google.com/store/apps/details?id=es.tipolisto.msxquiz](msxquiz)
+Juego de preguntas y respuestas para sistema MSX: [msxquiz](https://play.google.com/store/apps/details?id=es.tipolisto.msxquiz)
 
 
 
